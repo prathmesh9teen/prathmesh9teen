@@ -86,6 +86,12 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh9teen&layout=compact&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathmesh9teen/prathmesh9teen/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=prathmesh9teen&theme=tokyonight&margin-w=10)
@@ -138,3 +144,21 @@ MongoDB
 - Transformers
 - Kubernetes
 - System Design
+
+  ## 📈 Contribution Graph
+
+[![Prathmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathmesh9teen&theme=tokyo-night)](https://github.com/prathmesh9teen)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=prathmesh9teen&label=Profile%20Views&color=0e75b6&style=flat)
+
+## 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐ If you like my work, consider starring my repositories!
+
+Thanks for visiting my profile! 🚀
