@@ -41,42 +41,120 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 - 💡 Always building real-world projects
 
 ---
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<div align="center">
 
-- Python
-- Java
-- C++
-- JavaScript
-- TypeScript
+### 🚀 Programming Languages
 
-### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+</p>
 
-- TensorFlow
-- PyTorch
-- Keras
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-- Matplotlib
+---
 
-### Web Development
+### 🌐 Frontend Development
 
-- React
-- Next.js
-- Node.js
-- Express
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-### Tools
+---
 
-- Git
-- GitHub
-- VS Code
-- Google Colab
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
+
+---
+
+### 📊 Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+### ☁️ Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+## 🧠 Expertise
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | Python, Java, C++, JavaScript, TypeScript |
+| 🤖 AI & ML | TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV |
+| 🧠 NLP | LSTM, Transformers, Sentiment Analysis, Text Classification |
+| 🌐 Frontend | React, Next.js, Tailwind CSS |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 🗄️ Databases | MySQL, MongoDB |
+| ☁️ Tools | Git, GitHub, Docker, VS Code, Postman |
+| 📊 Data Science | Pandas, NumPy, Matplotlib, Jupyter |
+
+## 🎯 Areas of Interest
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 💬 Natural Language Processing
+- 🚀 Generative AI
+- 🏗️ Full Stack Development
+- 📈 Data Science
+- ⚡ Data Structures & Algorithms
 
   ## 📊 GitHub Stats
 
@@ -91,10 +169,6 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathmesh9teen/prathmesh9teen/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=prathmesh9teen&theme=tokyonight&margin-w=10)
 
 ## 🚀 Featured Projects
 
