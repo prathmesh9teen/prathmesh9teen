@@ -41,3 +41,100 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 - 💡 Always building real-world projects
 
 ---
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+
+### AI / ML
+
+- TensorFlow
+- PyTorch
+- Keras
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+- Matplotlib
+
+### Web Development
+
+- React
+- Next.js
+- Node.js
+- Express
+- MongoDB
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Google Colab
+
+  ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=prathmesh9teen&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathmesh9teen&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh9teen&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=prathmesh9teen&theme=tokyonight&margin-w=10)
+
+## 🚀 Featured Projects
+
+### 🧠 LearnLens Pro
+Student Learning Behaviour Clustering Dashboard
+
+Tech:
+Python • Scikit-learn • PCA • JavaScript
+
+---
+
+### ❤️ Lifestyle Disease Prediction
+
+Random Forest
+
+XGBoost
+
+Neural Networks
+
+---
+
+### 😊 Emotion-Aware Sentiment Analysis
+
+LSTM
+
+TensorFlow
+
+NLP
+
+---
+
+### 🌐 Full Stack Portfolio
+
+React
+
+Next.js
+
+Node.js
+
+MongoDB
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Agentic AI
+- RAG
+- Transformers
+- Kubernetes
+- System Design
