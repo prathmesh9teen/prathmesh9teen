@@ -170,45 +170,81 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
   <img src="https://raw.githubusercontent.com/prathmesh9teen/prathmesh9teen/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🧠 LearnLens Pro
-Student Learning Behaviour Clustering Dashboard
+> AI-powered Student Learning Behaviour Analytics
 
-Tech:
-Python • Scikit-learn • PCA • JavaScript
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine%20Learning-Yes-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge">
 
+✨ Features
+
+- Student Persona Detection
+- PCA Visualization
+- KMeans++
+- DBSCAN
+- Hierarchical Clustering
+- Interactive Dashboard
+
+**Tech**
+
+Python • Scikit-Learn • Pandas • NumPy • JavaScript
+
+<a href="https://github.com/prathmesh9teen/learnlens-pro">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### ❤️ Disease Prediction System
+
+AI Healthcare Project
+
+<img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge">
+
+✨ Features
+
+- Disease Prediction
+- Feature Engineering
+- Neural Networks
+- Random Forest
+- XGBoost
+
+**Tech**
+
+TensorFlow • Keras • Pandas • NumPy
+
+</td>
+
+</tr>
+</table>
 ---
 
-### ❤️ Lifestyle Disease Prediction
+## ⭐ Project Showcase
 
-Random Forest
+<a href="https://github.com/prathmesh9teen/learnlens-pro">
 
-XGBoost
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh9teen&repo=learnlens-pro&theme=tokyonight"/>
 
-Neural Networks
+</a>
+<a href="YOUR_REPO_LINK">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh9teen&repo=YOUR_REPO&theme=tokyonight"/>
 
-### 😊 Emotion-Aware Sentiment Analysis
+</a>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,js,react,nodejs,mongodb,git"/>
 
-LSTM
-
-TensorFlow
-
-NLP
-
----
-
-### 🌐 Full Stack Portfolio
-
-React
-
-Next.js
-
-Node.js
-
-MongoDB
 
 ## 🌱 Currently Learning
 
