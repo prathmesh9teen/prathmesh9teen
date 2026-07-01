@@ -179,7 +179,7 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 <img src="https://user-images.githubusercontent.com/74038190/212750337-3f0cdbff-0c5b-4e6e-b6c7-8a8b5f7f4f0b.gif" width="100%">
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=header&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=header&text=Building%20AI-Powered%20Solutions&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 ⭐ **If you like my work, consider starring my repositories!**
 
