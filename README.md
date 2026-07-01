@@ -1,9 +1,6 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=prathmesh9teen&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### AI & Machine Learning Engineer
 
@@ -32,6 +29,17 @@
 Building AI-powered applications using Machine Learning, Deep Learning, NLP, and Full Stack Development.
 
 ---
+## 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prathmesh9teen&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/prathmesh9teen?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/prathmesh9teen?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
 
 ## 🧠 About Me
 
