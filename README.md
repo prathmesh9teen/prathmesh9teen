@@ -95,7 +95,7 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
-
+---
 ### 🗄️ Database
 
 <p>
@@ -112,23 +112,15 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 
 ---
 
-### ☁️ Currently Learning
+## 🚀 What I'm Building & Exploring
 
-<p>
-
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
-
-</p>
-
-</div>
+🤖 AI & Machine Learning — intelligent systems for real-world applications  
+🧠 Deep Learning — Neural Networks, CNNs, RNNs, LSTMs & Transformers  
+💬 Natural Language Processing — emotion analysis, text classification & language understanding  
+🌐 Full Stack Applications — modern, responsive web apps with React, Next.js & Node.js  
+📈 End-to-End ML Workflows — EDA, feature engineering, model training & deployment  
+🚀 Generative AI — LLMs, RAG, AI Agents & prompt engineering  
+🧩 Competitive Programming — mastering Data Structures & Algorithms using Java & C++
 
   ## 📊 GitHub Stats
 
