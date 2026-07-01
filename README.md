@@ -5,8 +5,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Learner" />
 </p>
----
-## Visitors
 
 <div align="center">
 
@@ -72,7 +70,9 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
+
 ---
+
 ### 🗄️ Database
 
 <p>
@@ -165,13 +165,7 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 
 </p>
 
-Building AI-powered applications using Machine Learning, Deep Learning, NLP, and Full Stack Development.
-
 ⭐ **If you like my work, consider giving a star to my repositories!**
-
-💙 Open to collaborations in **AI, Machine Learning, NLP, and Full Stack Development**
-
-📫 **Email:** prathmeshharkal19@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=140&section=footer"/>
 
