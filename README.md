@@ -147,11 +147,10 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+the+future+with+AI.;Happy+Coding!+🚀" />
 
 ---
-## 🌐 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/prathmesh-harkal-19">
+<a href="https://linkedin.com/in/prathmesh-harkal-19" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -163,10 +162,27 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+<p align="center">
+  
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=140&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750337-3f0cdbff-0c5b-4e6e-b6c7-8a8b5f7f4f0b.gif" width="100%">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=header&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+⭐ **If you like my work, consider starring my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
