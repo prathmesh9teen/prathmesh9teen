@@ -1,7 +1,9 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-# Hi 👋 I'm Prathmesh Harkal
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=prathmesh9teen&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### AI & Machine Learning Engineer
 
@@ -31,14 +33,15 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 B.Tech CSE (AI & ML)
-- 🤖 Machine Learning Enthusiast
-- 🧠 Deep Learning & NLP
-- 🌐 Full Stack Developer
-- 📚 Solving DSA problems daily
-- 💡 Always building real-world projects
+I'm an AI & Full Stack Developer passionate about building intelligent, scalable, and user-focused applications. I enjoy combining Machine Learning, Deep Learning, and modern web technologies to solve real-world challenges while continuously learning and improving my craft.
+
+🤖 Exploring Machine Learning, Deep Learning, NLP, and Generative AI  
+🌐 Building scalable Full Stack applications with modern technologies  
+🧩 Passionate about Data Structures, Algorithms, and problem-solving  
+📚 Constantly learning Transformers, LLMs, and AI system design  
+💡 I believe that great software is built through curiosity, consistency, and innovation
 
 ---
 # 💻 Tech Stack
@@ -133,29 +136,6 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
 
 </div>
 
-## 🧠 Expertise
-
-| Category | Technologies |
-|----------|--------------|
-| 💻 Languages | Python, Java, C++, JavaScript, TypeScript |
-| 🤖 AI & ML | TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV |
-| 🧠 NLP | LSTM, Transformers, Sentiment Analysis, Text Classification |
-| 🌐 Frontend | React, Next.js, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js, REST APIs |
-| 🗄️ Databases | MySQL, MongoDB |
-| ☁️ Tools | Git, GitHub, Docker, VS Code, Postman |
-| 📊 Data Science | Pandas, NumPy, Matplotlib, Jupyter |
-
-## 🎯 Areas of Interest
-
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 💬 Natural Language Processing
-- 🚀 Generative AI
-- 🏗️ Full Stack Development
-- 📈 Data Science
-- ⚡ Data Structures & Algorithms
-
   ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=prathmesh9teen&show_icons=true&theme=tokyonight)
@@ -170,80 +150,15 @@ Building AI-powered applications using Machine Learning, Deep Learning, NLP, and
   <img src="https://raw.githubusercontent.com/prathmesh9teen/prathmesh9teen/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 LearnLens Pro
-> AI-powered Student Learning Behaviour Analytics
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-Yes-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge">
-
-✨ Features
-
-- Student Persona Detection
-- PCA Visualization
-- KMeans++
-- DBSCAN
-- Hierarchical Clustering
-- Interactive Dashboard
-
-**Tech**
-
-Python • Scikit-Learn • Pandas • NumPy • JavaScript
-
-<a href="https://github.com/prathmesh9teen/learnlens-pro">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-### ❤️ Disease Prediction System
-
-AI Healthcare Project
-
-<img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge">
-
-✨ Features
-
-- Disease Prediction
-- Feature Engineering
-- Neural Networks
-- Random Forest
-- XGBoost
-
-**Tech**
-
-TensorFlow • Keras • Pandas • NumPy
-
-</td>
-
-</tr>
-</table>
----
-
-## ⭐ Project Showcase
-
-<a href="https://github.com/prathmesh9teen/learnlens-pro">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh9teen&repo=learnlens-pro&theme=tokyonight"/>
-
-</a>
-<a href="YOUR_REPO_LINK">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh9teen&repo=YOUR_REPO&theme=tokyonight"/>
-
-</a>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,js,react,nodejs,mongodb,git"/>
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+|------------|----------------|---------------|
+| 🧠 **[LearnLens Pro](https://github.com/prathmesh9teen/learnlens-pro)** | AI-powered dashboard for student learning behavior clustering using unsupervised ML. | Python, Scikit-learn, PCA, DBSCAN |
+| ❤️ **Lifestyle Disease Prediction** | Early disease prediction system using machine learning and deep learning models. | TensorFlow, XGBoost, Random Forest |
+| 😊 **Emotion-Aware Sentiment Analysis** | NLP-based emotion classification system using LSTM networks. | TensorFlow, Keras, NLP |
+| 🌐 **Portfolio Website** | Personal developer portfolio built with modern web technologies. | Next.js, React, Tailwind CSS |
+| 💻 **DSA Repository** | Java & C++ solutions for interview preparation and competitive programming. | Java, C++, DSA |
 
 
 ## 🌱 Currently Learning
@@ -259,16 +174,23 @@ TensorFlow • Keras • Pandas • NumPy
 
 [![Prathmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathmesh9teen&theme=tokyo-night)](https://github.com/prathmesh9teen)
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=prathmesh9teen&label=Profile%20Views&color=0e75b6&style=flat)
-
 ## 💭 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+the+future+with+AI.;Happy+Coding!+🚀" />
 
-Thanks for visiting my profile! 🚀
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+💙 Open to collaborations in **AI, Machine Learning, NLP, and Full Stack Development**
+
+📫 **Email:** prathmeshharkal19@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=140&section=footer"/>
+
+</div>
