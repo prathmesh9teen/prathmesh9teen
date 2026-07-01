@@ -96,20 +96,6 @@ I'm an AI & Full Stack Developer passionate about building intelligent, scalable
 
 </p>
 
----
-
-### 📊 Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
-
----
-
 ### 🗄️ Database
 
 <p>
