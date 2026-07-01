@@ -29,7 +29,7 @@
 Building AI-powered applications using Machine Learning, Deep Learning, NLP, and Full Stack Development.
 
 ---
-## 👀 Visitors
+## Visitors
 
 <div align="center">
 
